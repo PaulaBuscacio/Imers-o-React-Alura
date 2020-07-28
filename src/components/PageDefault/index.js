@@ -14,13 +14,13 @@ const Main = styled.main`
 
 function PageDefault({ children }) {
     return (
-        /* <> //fragent */
+        /* <> //fragment */
         <>
             <Menu />
                 <Main>
                     {children}
                 </Main>
-            <Footer/>
+            <Footer />
         </>
     )
 }
