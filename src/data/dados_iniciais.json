@@ -1,0 +1,176 @@
+{
+  "categorias": [
+    {
+      "titulo": "Bebês",
+      "link": "https://leiturinha.com.br/blog/category/bebes/",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Artigos sobre bebês no blog da Leiturinha",
+        "url": "https://leiturinha.com.br/blog/category/bebes/"
+      },
+      "videos": [
+        {
+          "titulo": "Baby Jazz",
+          "url": "https://youtu.be/DMPguIvHMPE"
+        },
+        {
+          "titulo": "Baby Mozart",
+          "url": "https://youtu.be/egB_dQqRXTw"
+        },
+        {
+          "titulo": "Baby Schubert",
+          "url": "https://youtu.be/29SxQHNbxV0"
+        },
+        {
+          "titulo": "Babies Go Beatles",
+          "url": "https://youtu.be/cF4jiDsifmo"
+        },
+        {
+          "titulo": "Disney Lullabies for Babies",
+          "url": "https://youtu.be/r32wheq4HAc"
+        },
+        {
+          "titulo": "Baby loves Rock",
+          "url": "https://youtu.be/_KP43k9YnIE"
+        },
+        {
+          "titulo": "Babies go Queen",
+          "url": "https://youtu.be/CrI-BGxgymM"
+        }
+           
+      ]
+    },
+    {
+      "titulo": "Músicas",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Brinque de colorir com os desenhos do site Jogos de Colorir",
+        "url": "http://www.jogosdecolorir.com.br/"
+      },
+      "videos": [
+        {
+          "titulo": "Banho é Bom",
+          "url": "https://youtu.be/LeP2CIepzYQ"
+        },
+        {
+          "titulo": "Sopa",
+          "url": "https://youtu.be/x5Dm5FcvIOw"
+        },
+        {
+          "titulo": "Chuva, Chuvisco, Chuvarada",
+          "url": "https://youtu.be/DjHPC-dEd8o"
+        },
+        {
+          "titulo": "Pai Francisco",
+          "url": "https://youtu.be/FrfRL0rrE1E"
+        }, 
+        {
+          "titulo": "Lavar as mãos",
+          "url": "https://youtu.be/CaTXgmHyMSk"
+        }
+      ]
+    },
+    {
+      "titulo": "Desenhos",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Aprenda e se divirta no site da TV Ratimbum",
+        "url": "http://tvratimbum.cmais.com.br/"
+      },
+      "videos": [
+        {
+          "titulo": "O amarelo que ficou verde",
+          "url": "https://youtu.be/sj9tFz5RxQE"
+        },
+        {
+          "titulo": "Aprendendo com a Dora",
+          "url": "https://youtu.be/GgMK0_JalKA"
+        },
+        {
+          "titulo": "O coelhinho amarelo",
+          "url": "https://youtu.be/_zdUiLQZJF0"
+        },
+        {
+          "titulo": "A Masha está de volta?",
+          "url": "https://youtu.be/-yRGbaUpJX8"
+        }
+      ]
+    },
+    {
+      "titulo": "E mais desenhos",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Na flor da idade",
+          "url": "https://youtu.be/ZHQHhSp8rec"
+        },
+        {
+          "titulo": "Docinho aéreo",
+          "url": "https://youtu.be/JqOFroyGVRU"
+        },
+        {
+          "titulo": "Irmão do Jorel",
+          "url": "https://youtu.be/3k-1G_7CrRw"
+        },
+        {
+          "titulo": "Looney Tunes",
+          "url": "https://youtu.be/SPt9vWekqm0"
+        }
+      ]
+    },
+    {
+      "titulo": "Explorando o mundo",
+      "cor": "red",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Copo de gelatina com qualquer coisa",
+          "url": "https://youtu.be/boAYhZhBv4o"
+        },
+        {
+          "titulo": "Minuto da Terra explica: A evolução humana",
+          "url": "https://www.youtube.com/watch?v=pDCgcKhg3QI"
+        },
+        {
+          "titulo": "De onde vem o espirro?",
+          "url": "https://youtu.be/abfLDAq-nvs"
+        },
+  
+        {
+          "titulo": "Animais vertebrados e invertebrados",
+          "url": "https://youtu.be/gpnix8R3gXc"
+        }
+      ]
+    },
+    {
+      "titulo": "Músicas de Filmes",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+         "titulo": "De nada (Moana)",
+        "url": "https://youtu.be/oIfXG_kscH4"
+        },
+        {
+          "titulo": "Livre estou (Frozen)",
+          "url": "https://youtu.be/3TkIR4U4seA"
+        },
+        {
+          "titulo": "Hakuna Matata (O rei Leão",
+          "url": "https://youtu.be/2dvd9fh3Zqg"
+        },
+        {
+          "titulo": "Amigo estou aqui (Toy Story 4)",
+          "url": "https://youtu.be/ydQ1OuNvMEw"
+        }
+    
+      ]
+    }
+  ]
+}
