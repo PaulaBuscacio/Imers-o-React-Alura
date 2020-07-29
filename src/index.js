@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 import './index.css'
 import Home from './pages/Home'
 
