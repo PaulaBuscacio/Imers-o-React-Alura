@@ -1,0 +1,22 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "titulo": "Bebês",
+            "cor": "#6BD1FF",
+            "link_extra": {
+                "text": "Artigos sobre bebês no blog da Leiturinha",
+                "url": "https://leiturinha.com.br/blog/category/bebes/"
+            }
+        }
+    ],
+    "videos": [
+        {
+            "id": 1,
+            "categoriaId": 1,
+            "titulo": "Baby Jazz",
+            "url": "https://youtu.be/DMPguIvHMPE"
+        }
+    ]
+
+}
